@@ -1,6 +1,8 @@
 This repository contains all data and code related to term project on course "Introduction in Computer Vision"
 at Skoltech. 
 
+Goal of the project is to detect digits on water meter accurately.
+
 Authors: Valerii Kornilov, Sergey Petrakov
 
 Structure:
